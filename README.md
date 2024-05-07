@@ -1,6 +1,7 @@
 # sqlalchemy-challenge
 ~Utilized Xpert learning for histogram legend: plt.legend(["tobs"], loc="upper right")~
 Reread the instruction to see I didn't actually need that line of code
+
 looked up a way(stack overflow) to read some results better by making a dictionary to present findings in one line. Though I wasnt eble to cleanly do it with the last ones.
 
 Had some help from Tutor Justin with the <start>/<end> of the project, He helped explain what the "<>" did.
