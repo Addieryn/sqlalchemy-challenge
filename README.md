@@ -7,3 +7,5 @@ Had some help from Tutor Justin with the <start>/<end> of the project, He helped
 He also gave me a suggestion(if I wanted to learn more) on how to use html/css in flask, which I use to make it a little nicer. I already was using links(I prefer new tabs)
 
 I added a default date range for start/end so the page doesn't default in "null" and the input format would be simple to understand and change.
+
+Was going to use return jsonify(f"Min:{results[0]}, Max:{results[1]}, Avg:{results[2]}") to have it look cleaner, but it didn't look the same as other jsonify results.
